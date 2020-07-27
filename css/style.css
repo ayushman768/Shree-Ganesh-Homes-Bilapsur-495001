@@ -179,7 +179,27 @@ li {
         padding: 0
     }
 }
-
+@media (max-width:768px) {
+	.shree-ganesh-homes-Currunt-work img {
+    width: 406px;
+    height: auto!important;
+}
+   .Team-shree-ganesh-home img {
+    border-radius: 100%;
+    display: block;
+    padding: 30px;
+    margin: 0 auto;
+	width:0!important;
+	 height: auto!important;
+   
+}
+.offers img {
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%!important;
+    height: auto!important;
+}
+}
 body {
-    font-family: 'Libre Baskerville', serif!important
+    font-family: 'Libre Baskerville', serif!important;
 }
